@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BarFinderApp</string>
+    <string name="findTaxis">Find taxis</string>
+    <string name="FindBars">Find bars</string>
+    <string name="title_activity_bar_maps">Map</string>
+</resources>
