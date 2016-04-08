@@ -9,15 +9,16 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.patrickmccarroll.barfinderapp.MainActivity">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:text="@string/FindBars"
-        android:id="@+id/findBarsButton"
+        android:id="@+id/findBarsImageButton"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="56dp"
-        android:onClick = "onClick"/>
+        android:onClick = "onClick"
+        android:src="@drawable/beer_icon"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -25,6 +26,6 @@
         android:text="@string/findTaxis"
         android:id="@+id/findTaxisButton"
         android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/findBarsButton"
+        android:layout_alignStart="@+id/findBarsImageButton"
         android:layout_marginBottom="119dp" />
 </RelativeLayout>
