@@ -1,0 +1,30 @@
+<resources>
+
+    // Strings for the selection page
+    <string name="app_name">BarFinderApp2</string>
+    <string name="title_activity_bar_maps">Map</string>
+    <string name="findTaxis">Find Taxis</string>
+
+    //Strings for the login page
+    <string name="loginPage">Login</string>
+    <string name="username1">Username</string>
+    <string name="username2"></string>
+    <string name="password1">Password</string>
+    <string name="password2"></string>
+    <string name="login">Enter</string>
+    <string name="register">Register</string>
+    <string name="attemptsLeft">Attempts left : </string>
+
+    //Strings for the register page
+    <string name="registerPage">Register</string>
+    <string name="registerUsername1">Username</string>
+    <string name="registerUsername2"></string>
+    <string name="registerPassword1">Password</string>
+    <string name="registerPassword1Input"></string>
+    <string name="registerPassword2">Confirm password</string>
+    <string name="registerPassword2Input"></string>
+    <string name="registerButton">Register</string>
+    <string name="title_activity_postcode_maps">Map</string>
+
+
+</resources>
